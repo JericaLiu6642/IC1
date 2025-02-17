@@ -1,0 +1,17 @@
+24
+A => C
+C => A
+A,C => E
+E => A,C
+A => E
+E => A
+B => C
+C => B
+B,C => E
+E => B,C
+B => E
+E => B
+C => D
+D => C
+C => E
+E => C
