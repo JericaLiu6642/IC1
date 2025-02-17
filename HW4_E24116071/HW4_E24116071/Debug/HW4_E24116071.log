@@ -1,0 +1,4 @@
+﻿  HW4_E24116071.cpp
+c:\users\user\desktop\計算機概論\大一上\hw4_e24116071\hw4_e24116071\hw4_e24116071.cpp(14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\計算機概論\大一上\hw4_e24116071\hw4_e24116071\hw4_e24116071.cpp(33): warning C4101: 'seed': 未參考的區域變數
+  HW4_E24116071.vcxproj -> C:\Users\user\Desktop\計算機概論\大一上\HW4_E24116071\Debug\HW4_E24116071.exe
