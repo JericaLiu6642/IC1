@@ -1,5 +1,3 @@
-# IC1 HW at NCKU
+# 💻 Introduction to Computers – Homework Archive (E24116071)
 
-## Introduction
-所有成大電機計算機概論課程的作業
-每個資料夾內都有該作業的說明簡報
+This repository contains all homework submissions by **劉又慈 (Yu-Tzu Liu)** for the course **Introduction to Computers**, completed during the Fall semester in 2023. Each homework folder contains source files, reports, and other relevant material submitted for grading.
